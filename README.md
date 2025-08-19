@@ -10,8 +10,7 @@ CMS form creator enable you to create your custom form with high flexibility. By
 * publish your form easily via social media, link and qrcode also youn can print your form
 
 ### Usage
-
-### Customize
+You can use both pipevn or docker to run the project locally
 
 ### Docs
 **if you ran to any problem read the docs or open an issue in the github. its my absolute pleasure to respond you.**
